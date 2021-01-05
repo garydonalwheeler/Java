@@ -1,0 +1,21 @@
+Position,Driver Name,Country,Team,Car,Engine,Tyres,Points,About,Rating
+1,Lewis Hamilton,UK,Mercedes,Mercedes W10,Mercedes,Pirelli,413,Lewis ,A+++
+2,Valtteri Bottas,Finland,Mercedes,Mercedes W10,Mercedes,Pirelli,326,in,A+++
+3,Max Verstappen,Netherlands,Red Bull Racing,Red Bull RB15,Honda,Pirelli,278,Lewis ,A+++
+4,Charles Leclerc,Monaco,Ferrari,Ferrari SF90,Ferrari,Pirelli,264,Lewis ,A+++
+5,Sebastian Vettel,Germany,Ferrari,Ferrari SF90,Ferrari,Pirelli,240,Lewis ,A+++
+7,Carlos Sainz Jr.,Spain,McLaren,McLaren MCL34,Renault,Pirelli,96,Lewis ,A+++
+6,Pierre Gasly,France,Scuderia Toro Rosso,Scuderia Toro Rosso STR14,Honda,Pirelli,95,Lewis ,A+++
+8,Alex Albon,Thailand,Red Bull Racing,Red Bull RB15,Honda,Pirelli,92,Lewis ,A+++
+9,Daniel Ricciardo,Australia,Renault,Renault R.S. 19,Renault,Pirelli,54,Lewis ,A+++
+10,Sergio Perez,Mexico,Racing Point,Racing Point RP19,Mercedes,Pirelli,52,Lewis ,A+++
+11,Lando Norris,UK,McLaren,McLaren MCL34,Renault,Pirelli,49,Lewis ,A+++
+12,Kimi Raikkonen,Finland,Alfa Romeo,Alfa Romeo C38,Ferrari,Pirelli,43,Lewis ,A+++
+13,Nico Hulkenberg,Germany,Renault,Renault R.S. 19,Renault,Pirelli,37,Lewis ,A+++
+14,Daniil Kvyat,Russia,Scuderia Toro Rosso,Scuderia Toro Rosso STR14,Honda,Pirelli,37,Lewis ,A+++
+15,Lance Stroll,Canada,Racing Point,Racing Point RP19,Mercedes,Pirelli,21,Lewis ,A+++
+16,Kevin Magnussen,Denmark,Haas,Haas VF-19,Ferrari,Pirelli,20,Lewis ,A+++
+17,Antonio Giovinazzi,Italy,Alfa Romeo,Alfa Romeo C38,Ferrari,Pirelli,14,Lewis ,A+++
+18,Romain Grosjean,France,Haas,Haas VF-19,Ferrari,Pirelli,8,Lewis ,A+++
+19,Robert Kubica,Poland,Williams,Williams FW42,Mercedes,Pirelli,1,Lewis ,A+++
+20,George Russell,UK,Williams,Williams FW42,Mercedes,Pirelli,0,Lewis ,A+++
